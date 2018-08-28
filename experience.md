@@ -1,26 +1,21 @@
 ---
 layout: page
-title: Publications
+title: Experience
 ---
+You can also read more about her experience on <a href="http://https://www.linkedin.com/in/bee2502/" target="_blank">LinkedIn</a>.
 
-You can also browse my <a href="http://zzs.one/scholar" target="_blank">Google Scholar profile</a>.
-<br />
+### Professional experience
 
-#### Preprints
-- Cihang Xie, **Zhishuai Zhang**, Jianyu Wang, Yuyin Zhou, Zhou Ren, Alan Yuille, "Improving Transferability of Adversarial Examples with Input Diversity", arXiv ([PDF](https://arxiv.org/pdf/1803.06978.pdf))
-- Jianyu Wang, **Zhishuai Zhang**, Cihang Xie, Vittal Premachandran, Alan Yuille, "Unsupervised learning of object semantic parts from internal states of CNNs by population encoding", arXiv ([PDF](https://arxiv.org/pdf/1511.06855.pdf))
-<br /> 
+Bee is currently working at Siemens in deep learning and natural language processing. She has worked on machine translation, sentiment analysis and document similarity tasks for English and German language data. Her work has led to her to use a diverse ranging of technologies including Docker, AWS and deep learning libraries like Keras and PyTorch.
 
-#### Conference papers
-- Siyuan Qiao, Wei Shen, **Zhishuai Zhang**, Bo Wang, Alan Yuille, "Deep Co-Training for Semi-Supervised Image Recognition", European Conference on Computer Vision (ECCV) 2018 ([PDF](https://arxiv.org/pdf/1803.05984.pdf))
-- Siyuan Qiao, **Zhishuai Zhang**, Wei Shen, Bo Wang, Alan Yuille, "Gradually Updated Neural Networks for Large-Scale Image Recognition", International Conference on Machine Learning (ICML) 2018 ([PDF](https://arxiv.org/pdf/1711.09280.pdf))
-- **Zhishuai Zhang**, Siyuan Qiao, Cihang Xie, Wei Shen, Bo Wang, Alan Yuille, "Single-Shot Object Detection with Enriched Semantics", Conference on Computer Vision and Pattern Recognition (CVPR) 2018 ([PDF](https://arxiv.org/pdf/1712.00433.pdf))
-- **Zhishuai Zhang\***, Cihang Xie\*, Jianyu Wang\*, Lingxi Xie, Alan Yuille (\*equal contribution), "DeepVoting: An Explainable Framework for Semantic Part Detection under Partial Occlusion", Conference on Computer Vision and Pattern Recognition (CVPR) 2018 ([PDF](https://arxiv.org/pdf/1709.04577.pdf))
-- Cihang Xie, Jianyu Wang, **Zhishuai Zhang**, Zhou Ren, Alan Yuille, "Mitigating adversarial effects through randomization", International Conference on Learning Representations (ICLR) 2018 ([PDF](https://arxiv.org/pdf/1711.01991.pdf))
-- Cihang Xie\*, Jianyu Wang\*, **Zhishuai Zhang\***, Yuyin Zhou, Lingxi Xie, Alan Yuille (\*equal contribution), "Adversarial Examples for Semantic Segmentation and Object Detection", International Conference on Computer Vision (ICCV) 2017 ([PDF](https://arxiv.org/pdf/1703.08603.pdf))
-- Jianyu Wang\*, Cihang Xie\*, **Zhishuai Zhang\***, Jun Zhu, Lingxi Xie, Alan Yuille (\*equal contribution), "Detecting Semantic Parts on Partially Occluded Objects", British Machine Vision Conference (BMVC) 2017 ([PDF](https://arxiv.org/pdf/1707.07819.pdf))
-<br /> 
+In 2017, she worked for [Mozilla](https://www.mozilla.org/en-US/about/) as a research and development intern. During her internship, she worked with the Open Innovation and Participation Team to advise Mozilla leadership on a global diversity and inclusion strategy. She conducted qualitative research, interviews and data analytics to assist in building this strategy for Mozilla's volunteer community. Additionally, she proposed and led quantitative analysis using data analytics, machine learning (clustering algorithms) and NLP (sentiment analysis and topic modeling) to augment existing qualitative community research. At the end of her internship, she participated in an international work event based on excellent performance.
 
-#### Journal papers
-- Jianyu Wang, **Zhishuai Zhang**, Cihang Xie, Yuyin Zhou, Vittal Premachandran, Jun Zhu, Lingxi Xie, Alan Yuille, "Visual Concepts and Compositional Voting", Annals of Mathematical Sciences and Applications 2018 ([PDF](https://arxiv.org/pdf/1711.04451.pdf))
+
+### Research experience
+
+Bee is interested in using data to understand human behavior in social environments. Her research uses interdisciplinary methods drawn from psychology, neuroscience, graph theory and AI to get a deeper understanding of human behaviour. 
+
+In 2016, she was a predoctoral fellow at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. Her work focused on understanding human decision making in online social environments. She worked with the Adaptive Behavior and Cognition (ABC) research group under Dr. Ozgur Simsek. She was also invited to attend 2016 Summer Institute on Bounded Rationality at MPIB.
+
+
 

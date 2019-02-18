@@ -2,7 +2,7 @@
 layout: page
 title: Experience
 ---
-You can also read more about her experience on <a href="http://https://www.linkedin.com/in/bee2502/" target="_blank">LinkedIn</a>.
+You can also read more about her experience on <a href="https://www.linkedin.com/in/bee2502/" target="_blank">LinkedIn</a>.
 
 ### Professional experience
 
@@ -13,7 +13,7 @@ In 2017, she worked for [Mozilla](https://www.mozilla.org/en-US/about/) as a res
 
 ### Research experience
 
-Bee is interested in using data to understand human behavior in social environments. Her research uses interdisciplinary methods drawn from psychology, neuroscience, graph theory and AI to get a deeper understanding of human behaviour. 
+Bee is interested in using data to understand human behavior in social environments. Her research uses interdisciplinary methods drawn from psychology, neuroscience, graph theory and AI to get a deeper understanding of human behaviour.
 
 In 2016, she was a predoctoral fellow at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. Her work focused on understanding human decision making in online social environments. She worked with the Adaptive Behavior and Cognition (ABC) research group under Dr. Ozgur Simsek. She was also invited to attend 2016 Summer Institute on Bounded Rationality at MPIB.
 
